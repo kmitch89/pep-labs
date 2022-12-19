@@ -25,8 +25,8 @@
     normalizedContextURL: https://github.com/revature-curriculum/pep-gitpod-workspace
     checkoutLocation: pep-gitpod-workspace
   :gitpod_workspace:
-    :workspace_id: revaturecur-pepgitpodwo-4rz1gmi6axz
-    :workspace_url: https://revaturecur-pepgitpodwo-4rz1gmi6axz.ws-us79.gitpod.io
+    :workspace_id: revaturecur-pepgitpodwo-gtcprtvxggm
+    :workspace_url: https://revaturecur-pepgitpodwo-gtcprtvxggm.ws-us79.gitpod.io
     :repo_root: "/workspace/pep-gitpod-workspace"
     :git_user_email: kmmitchelle27@gmail.com
     :git_user_name: kmitch89
