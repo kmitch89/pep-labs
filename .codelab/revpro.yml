@@ -12,21 +12,29 @@
   :gitpod_workspace_context:
     isFile: false
     path: ''
-    title: revature-curriculum/pep-gitpod-workspace - main
+    title: kmitch89/pep-gitpod-workspace - main
     ref: main
     refType: branch
     revision: 5d0ee2b0d677c8aee69a52cbfbf882eaab758954
     repository:
-      cloneUrl: https://github.com/revature-curriculum/pep-gitpod-workspace.git
+      cloneUrl: https://github.com/kmitch89/pep-gitpod-workspace.git
       host: github.com
       name: pep-gitpod-workspace
-      owner: revature-curriculum
+      owner: kmitch89
       private: false
-    normalizedContextURL: https://github.com/revature-curriculum/pep-gitpod-workspace
+      fork:
+        parent:
+          cloneUrl: https://github.com/revature-curriculum/pep-gitpod-workspace.git
+          host: github.com
+          name: pep-gitpod-workspace
+          owner: revature-curriculum
+          private: false
+    normalizedContextURL: https://github.com/kmitch89/pep-gitpod-workspace
     checkoutLocation: pep-gitpod-workspace
+    upstreamRemoteURI: https://github.com/revature-curriculum/pep-gitpod-workspace.git
   :gitpod_workspace:
-    :workspace_id: revaturecur-pepgitpodwo-gtcprtvxggm
-    :workspace_url: https://revaturecur-pepgitpodwo-gtcprtvxggm.ws-us79.gitpod.io
+    :workspace_id: kmitch89-pepgitpodworks-zaoqrxk773k
+    :workspace_url: https://kmitch89-pepgitpodworks-zaoqrxk773k.ws-us80.gitpod.io
     :repo_root: "/workspace/pep-gitpod-workspace"
     :git_user_email: kmmitchelle27@gmail.com
     :git_user_name: kmitch89
