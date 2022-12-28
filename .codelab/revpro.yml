@@ -29,12 +29,12 @@
           name: pep-gitpod-workspace
           owner: revature-curriculum
           private: false
-    normalizedContextURL: https://github.com/kmitch89/pep-gitpod-workspace
+    normalizedContextURL: https://github.com/kmitch89/pep-gitpod-workspace.git
     checkoutLocation: pep-gitpod-workspace
     upstreamRemoteURI: https://github.com/revature-curriculum/pep-gitpod-workspace.git
   :gitpod_workspace:
-    :workspace_id: kmitch89-pepgitpodworks-zaoqrxk773k
-    :workspace_url: https://kmitch89-pepgitpodworks-zaoqrxk773k.ws-us80.gitpod.io
+    :workspace_id: kmitch89-pepgitpodworks-hrhhyawg6t8
+    :workspace_url: https://kmitch89-pepgitpodworks-hrhhyawg6t8.ws-us80.gitpod.io
     :repo_root: "/workspace/pep-gitpod-workspace"
     :git_user_email: kmmitchelle27@gmail.com
     :git_user_name: kmitch89
