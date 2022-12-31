@@ -3,7 +3,7 @@
 :repo_path: "/workspace/revpro-cli/pep-labs"
 :previous_lab: 
 :current_lab: 
-:origin_remote: https://github.com/kmitch89/pep-labs.git
+:origin_remote: https://github.com/kmitch89/pep-labs
 :repo_clone_folder: "/workspace/revpro-cli/pep-labs"
 :github_username: kmitch89
 :git_name: kmitch89
@@ -12,29 +12,21 @@
   :gitpod_workspace_context:
     isFile: false
     path: ''
-    title: kmitch89/pep-gitpod-workspace - main
+    title: revature-curriculum/pep-gitpod-workspace - main
     ref: main
     refType: branch
     revision: 5d0ee2b0d677c8aee69a52cbfbf882eaab758954
     repository:
-      cloneUrl: https://github.com/kmitch89/pep-gitpod-workspace.git
+      cloneUrl: https://github.com/revature-curriculum/pep-gitpod-workspace.git
       host: github.com
       name: pep-gitpod-workspace
-      owner: kmitch89
+      owner: revature-curriculum
       private: false
-      fork:
-        parent:
-          cloneUrl: https://github.com/revature-curriculum/pep-gitpod-workspace.git
-          host: github.com
-          name: pep-gitpod-workspace
-          owner: revature-curriculum
-          private: false
-    normalizedContextURL: https://github.com/kmitch89/pep-gitpod-workspace.git
+    normalizedContextURL: https://github.com/revature-curriculum/pep-gitpod-workspace
     checkoutLocation: pep-gitpod-workspace
-    upstreamRemoteURI: https://github.com/revature-curriculum/pep-gitpod-workspace.git
   :gitpod_workspace:
-    :workspace_id: kmitch89-pepgitpodworks-hrhhyawg6t8
-    :workspace_url: https://kmitch89-pepgitpodworks-hrhhyawg6t8.ws-us80.gitpod.io
+    :workspace_id: revaturecur-pepgitpodwo-4n6pe9tedku
+    :workspace_url: https://revaturecur-pepgitpodwo-4n6pe9tedku.ws-us80.gitpod.io
     :repo_root: "/workspace/pep-gitpod-workspace"
     :git_user_email: kmmitchelle27@gmail.com
     :git_user_name: kmitch89
