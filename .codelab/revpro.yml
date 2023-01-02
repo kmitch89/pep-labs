@@ -3,7 +3,7 @@
 :repo_path: "/workspace/revpro-cli/pep-labs"
 :previous_lab: 
 :current_lab: 
-:origin_remote: https://github.com/kmitch89/pep-labs
+:origin_remote: https://github.com/kmitch89/pep-labs.git
 :repo_clone_folder: "/workspace/revpro-cli/pep-labs"
 :github_username: kmitch89
 :git_name: kmitch89
@@ -25,8 +25,8 @@
     normalizedContextURL: https://github.com/revature-curriculum/pep-gitpod-workspace
     checkoutLocation: pep-gitpod-workspace
   :gitpod_workspace:
-    :workspace_id: revaturecur-pepgitpodwo-4n6pe9tedku
-    :workspace_url: https://revaturecur-pepgitpodwo-4n6pe9tedku.ws-us80.gitpod.io
+    :workspace_id: revaturecur-pepgitpodwo-dx1628vyr9w
+    :workspace_url: https://revaturecur-pepgitpodwo-dx1628vyr9w.ws-us80.gitpod.io
     :repo_root: "/workspace/pep-gitpod-workspace"
     :git_user_email: kmmitchelle27@gmail.com
     :git_user_name: kmitch89
